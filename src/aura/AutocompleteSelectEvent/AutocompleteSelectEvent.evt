@@ -1,0 +1,4 @@
+<aura:event type="APPLICATION" description="AutocompleteSelectEvent">
+    <aura:attribute name="autoCompleteId" type="String"/>
+    <aura:attribute name="entry" type="String"/>
+</aura:event>

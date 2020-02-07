@@ -1,0 +1,8 @@
+<!--
+ - Created by alexlazarovski on 29.08.2018.
+ -->
+
+<aura:event type="APPLICATION" description="bevt_AutocompleteSelect">
+    <aura:attribute name="autoCompleteId" type="String"/>
+    <aura:attribute name="entry" type="String"/>
+</aura:event>
